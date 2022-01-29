@@ -15,7 +15,7 @@ public class Circunferencia {
     private int radio;
     public double area;
     public double perimetro;
-    public int radio2;
+   
 
     public Circunferencia() {
     }
